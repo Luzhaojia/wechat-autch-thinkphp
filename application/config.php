@@ -236,6 +236,6 @@ return [
         'var_page'  => 'page',
         'list_rows' => 15,
     ],
-    'appID' =>'wx2593aec7507f123f',
-    'appsecret' =>'14c022871b81129d33f582e35251ea7c',
+    'appID' =>'',
+    'appsecret' =>'',
 ];
